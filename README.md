@@ -30,4 +30,4 @@ computer science student Focused on backend development, Linux server administra
 
 
 
-![GitHub 3D Contribution](profile-3d-contrib/profile.svg)
+![GitHub 3D Contribution](profile-3d-contrib/profile-3d-contrib/profile-green.svg)
