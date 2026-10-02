@@ -46,3 +46,14 @@ computer science student Focused on backend development, Linux server administra
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=hypeblock26&theme=transparent&hide_border=true&border_radius=10&date_format=%5BY.%5Dnn.j&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" width="48%" />
 </p>
+
+
+
+### The time I spend on coding
+
+```text
+Python      2 hrs 48 mins   ████████████████░░░░░░░░░   59.07 %
+Java        44 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.61 %
+Other       39 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.69 %
+JSON        14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+Markdown    10 mins         ▌░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
