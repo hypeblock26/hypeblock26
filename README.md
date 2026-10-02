@@ -6,7 +6,7 @@ computer science student Focused on backend development, Linux server administra
 - 🌱 I’m currently diving deeper into Kubernetes, container orchestration, and network administration.
 - 💬 Ask me about Python, Bash scripting, Docker deployments, or routing configurations.
 - 📫 How to reach me: Check my repositories or connect through my professional network.
-- ⚡ Fun fact: I prefer a clean terminal over a flashy UI any day.
+
 
 ### SKILLS
 
