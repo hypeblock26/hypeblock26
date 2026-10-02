@@ -31,3 +31,20 @@ computer science student Focused on backend development, Linux server administra
 
 
 ![GitHub 3D Contribution](https://raw.githubusercontent.com/hypeblock26/hypeblock26/refs/heads/main/profile-3d-contrib/profile-night-green.svg)
+
+
+
+
+
+
+### 📊 GitHub Stats & Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hypeblock26&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hypeblock26&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hypeblock26&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hypeblock26&theme=tokyonight&hide_border=true" width="48%" />
+</p>
