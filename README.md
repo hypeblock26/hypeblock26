@@ -27,3 +27,7 @@ computer science student Focused on backend development, Linux server administra
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+
+
+![GitHub 3D Contribution](profile-3d-contrib/profile.svg)
