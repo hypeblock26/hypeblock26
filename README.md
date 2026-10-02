@@ -30,4 +30,4 @@ computer science student Focused on backend development, Linux server administra
 
 
 
-![GitHub 3D Contribution](profile-3d-contrib/profile-3d-contrib/profile-green.svg)
+![GitHub 3D Contribution](https://raw.githubusercontent.com/hypeblock26/hypeblock26/refs/heads/main/profile-3d-contrib/profile-green.svg)
