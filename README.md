@@ -41,8 +41,6 @@ computer science student Focused on backend development, Linux server administra
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hypeblock26&theme=tokyonight&hide_border=true" width="48%" />
-  <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hypeblock26&theme=tokyonight&hide_border=true" width="48%" />
   <!--START_SECTION:wakatime-->
   <!--END_SECTION:wakatime-->
 </p>
