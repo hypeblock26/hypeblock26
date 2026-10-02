@@ -40,7 +40,11 @@ computer science student Focused on backend development, Linux server administra
 ###  GitHub Stats & Metrics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hypeblock26&theme=tokyonight&hide_border=true" width="48%" />
-  <!--START_SECTION:wakatime-->
-  <!--END_SECTION:wakatime-->
+  <img src="https://github-stats-extended.vercel.app/api?username=hypeblock26&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Creviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=hypeblock26&layout=donut&langs_count=10&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hypeblock26&theme=transparent&hide_border=true&border_radius=10&date_format=%5BY.%5Dnn.j&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=hypeblock26&langs_count=10&theme=tokyonight&hide-border=true" width="48%" />
 </p>
