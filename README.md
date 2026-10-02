@@ -1,6 +1,5 @@
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=28&duration=6000&pause=1000&color=F7F7F7&width=500&lines=Hi+there%2C+I'm+Abel+%F0%9F%91%8B;Systems+Engineering+Student;Backend+%26+Infrastructure+Enthusiast">
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=About+Me%3A">
 </p>
 
 
