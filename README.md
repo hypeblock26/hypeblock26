@@ -39,8 +39,8 @@ computer science student Focused on backend development, Linux server administra
 ###  GitHub Stats & Metrics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=hypeblock26&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Creviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=hypeblock26&layout=donut&langs_count=10&theme=ayu-mirage&hide_border=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=hypeblock26&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Creviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=hypeblock26&layout=donut&langs_count=10&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
