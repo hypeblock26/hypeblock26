@@ -54,6 +54,16 @@ computer science student Focused on backend development, Linux server administra
   <img src="https://streak-stats.demolab.com/?user=hypeblock26&theme=transparent&hide_border=true&border_radius=10&date_format=%5BY.%5Dnn.j&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" width="48%" />
 </p>
 
+🏆 ![Top 5 Peru](https://img.shields.io/badge/GitHub%20Peru-Top%20%235%20by%20public%20contributions-red?style=for-the-badge&logo=github)
+<p align="center">
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/57ff19ff-ff27-4ce7-8c13-d5f06577bf01" />
+</p>
+
+<p align="center">
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/c3595d33-55c4-4e27-ace5-662e00837008" />
+</p>
+
+
 
 
 ### The time I spend on coding
@@ -64,4 +74,3 @@ Java        44 mins         ████░░░░░░░░░░░░░�
 Other       39 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.69 %
 JSON        14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
 Markdown    10 mins         ▌░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-
