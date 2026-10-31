@@ -1,3 +1,10 @@
+<p align="center">
+  <img height="40" align="middle" alt="trophy" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png" />
+  <a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/peru.md#hypeblock26">
+    <img align="middle" alt="gayanvoice/top-github-users/peru" src="https://raw.githubusercontent.com/gayanvoice/top-github-users-ranking/main/svg/peru/hypeblock26.svg" />
+  </a>
+</p>
+
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=About+Me%3A">
 </p>
